@@ -22,7 +22,7 @@ const Index = () => {
     <div className="min-h-screen">
       <header className="fixed top-0 w-full bg-white/95 backdrop-blur-sm z-50 border-b">
         <div className="container mx-auto px-4 py-4 flex justify-between items-center">
-          <h1 className="text-2xl font-bold font-heading text-primary">АрктикЛогистик</h1>
+          <h1 className="text-2xl font-bold font-heading text-primary">Гермес Логистик</h1>
           <nav className="hidden md:flex gap-8">
             <a href="#services" className="hover:text-primary transition-colors">Услуги</a>
             <a href="#portfolio" className="hover:text-primary transition-colors">Портфолио</a>
@@ -362,7 +362,7 @@ const Index = () => {
         <div className="container mx-auto">
           <div className="grid md:grid-cols-4 gap-8">
             <div>
-              <h3 className="font-bold font-heading text-xl mb-4">АрктикЛогистик</h3>
+              <h3 className="font-bold font-heading text-xl mb-4">Гермес Логистик</h3>
               <p className="text-sm text-white/80">
                 Надёжная доставка грузов на Ковыктинское месторождение с 2009 года
               </p>
@@ -407,7 +407,7 @@ const Index = () => {
           </div>
 
           <div className="border-t border-white/20 mt-8 pt-8 text-center text-sm text-white/60">
-            © 2024 АрктикЛогистик. Все права защищены.
+            © 2024 Гермес Логистик. Все права защищены.
           </div>
         </div>
       </footer>
